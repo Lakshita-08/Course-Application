@@ -1,3 +1,6 @@
+This is a React Webapp with Spring boot as Backend where Rest API has been implemented.
+It enable users to view, add, update, and delete courses through a user-friendly interface, with data stored and managed in MySQL.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
